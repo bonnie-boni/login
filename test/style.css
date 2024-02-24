@@ -1,0 +1,93 @@
+            body{
+            background-color: rgb(31, 29, 29);
+            /* background-image: url("AF9tp+tGNDJUAAAAABJRU5ErkJggg==.png"); */
+            background-size: auto;
+            color: lawngreen;
+            padding: 0%;
+            margin: 0%;
+            justify-items: center;
+            align-items: center;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        h1{
+            font-size: 55px;
+            align-self: center;
+            text-align: center;
+        }
+        input{
+            width: 100%;
+            align-self: center;
+            background-color: transparent;
+            color: red;
+        }
+        table caption{
+            font-weight: bold;
+            font-size: 30px;
+            color: orange;
+        }
+        table{
+            width: 100%;
+        }
+        .search{
+            padding: 5px;
+            margin: 10px 10px;
+            cursor: pointer;
+            border-radius: 15px;
+            width: 200px;
+        }
+        .submition{
+            border: 2px solid;
+            cursor: pointer;
+            width: 65px;
+            height: 35px;
+        }
+        form.submition{
+            align-content: center;
+            justify-content: center;
+        }
+        .wrapper{
+            display: flex;
+            text-align: center;
+            
+        }
+        .wrapper form{
+            width: 100%;
+            border-bottom: 2px solid;
+        }
+        .bar {
+            width: 100%;
+        }
+        .list{
+            display: flex;
+            width: 100%;
+            margin: 25px;
+            padding: 5px;
+            background-color: transparent;
+        }
+        form{
+            padding: 10px;
+            margin: 10px 30px;
+        }
+        .button{
+            width: 200px;
+            height: 50px;
+            cursor: pointer;
+            background-color: transparent;
+            border-radius: 15px;
+            font-size: 25px;
+        }
+        footer{
+            display: flexbox;
+            padding: 15px;
+            margin: 0%;
+            position: baseline;
+            background-color: rgb(35, 41, 46);
+        }
+        footer .fota{
+            text-align: center;
+            display: flex;
+            width: 100%;
+        }
+        footer .fota div{
+            width: 100%;
+        }
